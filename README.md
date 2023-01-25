@@ -1,1 +1,1 @@
-The portfolio contains my visualizations and SQL queries of datasets.
+The portfolio contains my projects with visualizations and SQL queries of datasets.
