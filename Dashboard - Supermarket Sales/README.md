@@ -1,4 +1,4 @@
-Analysis of sales and profitability of Supermarket Sales.
+Interactive Dashboard of supermarket sales and profits.
 
 Data source - https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 
