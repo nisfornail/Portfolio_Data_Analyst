@@ -1,4 +1,4 @@
-Interactive Dashboard of supermarket sales and profits.
+Interactive Dashboard of supermarket sales and profits
 
 Data source - https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 
