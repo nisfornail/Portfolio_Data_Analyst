@@ -13,18 +13,16 @@ It can also be adapted to **download historical stats for many other national le
 
 ## Files
 - `football matches web scraping.ipynb` — main notebook.
-- Output CSVs include (examples):  
+- Output CSVs include raw files (they are downloaded during execution of the code):
+  - `P1_1718_2017-18.csv`
+  - `P1_1819_2018-19.csv`
+  - `P1_1920_2019-20.csv`
+  - `P1_2021_2020-21.csv`
+  - `P1_2122_2021-22.csv`
+  - `P1_2223_2022-23.csv`
+  - `P1_2324_2023-24.csv`
+  - `P1_2425_2024-25.csv`
+- Output CSVs include processed files (they are prepared during execution of the code):  
   - `primeira_liga_top5_1718_2425.csv`  
   - `sporting_benfica_totals_per_season_1718_2425.csv`  
   - `sporting_benfica_totals_in_1718_2425.csv.csv`
-
-## Quick start
-```bash
-# (Optional) create a venv
-python -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\activate
-
-# Install dependencies
-pip install pandas requests beautifulsoup4 lxml jupyter
-
-# Launch
-jupyter lab  # or: jupyter notebook
